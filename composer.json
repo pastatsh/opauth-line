@@ -1,7 +1,7 @@
 {
-	"name": "opauth/line",
+	"name": "pastatsh/opauth-line",
 	"description": "LINE strategy for Opauth",
-	"keywords": ["authentication","auth","line"],
+	"keywords": ["authentication","auth","opauth","line"],
 	"homepage": "http://opauth.org",
 	"license": "MIT",
 	"authors": [
