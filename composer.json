@@ -1,0 +1,23 @@
+{
+	"name": "opauth/line",
+	"description": "LINE strategy for Opauth",
+	"keywords": ["authentication","auth","line"],
+	"homepage": "http://opauth.org",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "pastatsh",
+			"email": "wakyubabu@gmail.com",
+			"homepage": "https://github.com/pastatsh/"
+		}
+	],
+	"require": {
+		"php": ">=5.2.0",
+		"opauth/opauth": ">=0.2.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"": "."
+		}
+	}
+}
